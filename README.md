@@ -29,13 +29,10 @@ With the list of video and their videoId, I could then fetch the statistics (vie
 The collected data was plotted using Tableau.
 
 ### Results
-on the 31.05.21,  PoSNO published 14 videos for #pint21 and we got a bit less than 1700 views in less than one week which is comparable to the views we cumulated for the 3  videos we did for #pint20 (plot to be done). 
+on the 31.05.21,  PoSNO published 14 videos for #pint21 and we got a bit less than 1900 views in less than 2 weeks which is comparable to the views we cumulated for the 3 videos we did for #pint20 (plot to be done). 
 
-Compare to the other countries of the PoS network it is not that bad, we are ranked in the middle for each metrics so I am kind of happy.
+Compare to the other countries of the PoS network it is not that bad, we are ranked in the middle for each metrics so I am kind of happy(but it can changed)
 
-Our growing is shown through more volunteers and more collaboration.
+Our growing is shown through more volunteers and more collaborations coming for the rest of the year :D 
 
-
-The dashboard is available  [online](https://public.tableau.com/views/pint21YouTube-dashboard/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link)
-
-with an update up to [31.05.21](https://public.tableau.com/views/pint21YouTube-dashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+The updated dashboard is available  [online](https://public.tableau.com/views/pint21YouTube-dashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
