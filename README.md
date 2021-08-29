@@ -1,7 +1,7 @@
 # #pint21 YouTube Statistics
 
 ### background and why
-The Pint of Science is an annual festival born in 2013 in UK and now present is 30 countries ([more info])(www.pintofscience.com).
+The Pint of Science is an annual festival born in 2013 in UK and now present is 30 countries ([more info](www.pintofscience.com)).
 in 2021, the Pint of Science festival #pint21 was run in 25 countries and a few of them (based on my analysis) decided to stream it to YouTube while other were using Zoom and others plateforms. 
 I found the Pint of Science Norway end of 2019 and we have been running 2 editions (#pint20 and #pint21). Unfortunately all our events has been hosted and streamed online on Youtube - 3 hybrid event in Trondheim for #pint21). As the director since its creation I wanted to know how well we have been doing. 
 
